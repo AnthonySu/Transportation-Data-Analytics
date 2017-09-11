@@ -1,0 +1,3 @@
+[submodule "osmnx"]
+	path = osmnx
+	url = https://github.com/gboeing/osmnx.git
