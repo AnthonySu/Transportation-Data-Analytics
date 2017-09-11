@@ -1,3 +1,6 @@
 [submodule "osmnx"]
 	path = osmnx
 	url = https://github.com/gboeing/osmnx.git
+[submodule "urban-data-science"]
+	path = urban-data-science
+	url = https://github.com/gboeing/urban-data-science.git
